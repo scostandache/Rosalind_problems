@@ -1,0 +1,3 @@
+For this problem I've tried a Cython implementation, which is way more faster. 
+On the other hand though, Cython needs some prerequisites before using it. One easy way to get
+along with them would be to simply install Anaconda compiler, which already has them.
