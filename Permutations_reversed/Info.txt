@@ -1,0 +1,11 @@
+For this problem I've tried a Cython implementation, which is way more faster. 
+On the other hand though, Cython needs some prerequisites before using it. One easy way to get
+along with them would be to simply install Anaconda platform, which already has them.
+More useful links: 
+
+https://docs.continuum.io/
+http://cython.org/
+
+An A-HA! : 
+
+https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_Cython_On_Anaconda_On_Windows?lang=en
