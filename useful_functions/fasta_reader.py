@@ -7,7 +7,7 @@ def get_whole_strings(file_name):
     for i in range(0, len(strings)):
         if ">" in strings[i]:
             indexes.append(i)
-        #DNA_pairs.append( (strings[i].strip('\n>'),strings[i+1].strip('\n')))
+            #DNA_pairs.append( (strings[i].strip('\n>'),strings[i+1].strip('\n')))
 
     for i in range(len(indexes)-1):
 
