@@ -19,5 +19,4 @@ for i in range(dna_size):
         dist_matrix[i][j]=p_distance(dna_list[i][1],dna_list[j][1])
 
 
-for line in dist_matrix:
-    print line
+print (2 **934)%1000000
